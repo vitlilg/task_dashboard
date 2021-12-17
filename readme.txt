@@ -10,7 +10,7 @@ GET, PUT, DELETE https://task-dashboard.aries.zp.ua/api/v1/tasks/user/detail/1/
 
 Task's section:
 Create task (allow for authenticated users):
-POST https://task-dashboard.aries.zp.ua/api/v1/tasks/tasks/task/create/
+POST https://task-dashboard.aries.zp.ua/api/v1/tasks/task/create/
 List of tasks (allow for authenticated users):
 GET https://task-dashboard.aries.zp.ua/api/v1/tasks/task/list/
 Read task (allow for authenticated users) and update/delete task (allow for author of task)
